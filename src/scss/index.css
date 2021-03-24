@@ -1,0 +1,14 @@
+#root, body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: #105e26;
+  background: -webkit-gradient(linear, left top, right top, color-stop(51%, rgba(16, 94, 38, 0.986432)), to(#031403));
+  background: linear-gradient(90deg, rgba(16, 94, 38, 0.986432) 51%, #031403 100%);
+}
+/*# sourceMappingURL=index.css.map */
