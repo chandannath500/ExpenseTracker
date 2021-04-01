@@ -7,5 +7,5 @@ This is a code repository for the corresponding application.
 
 This app tracks your income and expenses, it also supports voice commands using "SPEECHLY" 
 
-Setup:
-- run ```npm i && npm start```
+Link:
+https://incomexpensetracker.netlify.app/
